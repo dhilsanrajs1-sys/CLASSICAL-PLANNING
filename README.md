@@ -1,4 +1,4 @@
-# ExpNo:10 Implementation of Classical Planning Algorithm
+## ExpNo:10 Implementation of Classical Planning Algorithm
 
 Name: DHILSANRAJ S
 Reg no: 212225230058
